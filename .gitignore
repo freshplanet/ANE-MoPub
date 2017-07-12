@@ -62,3 +62,5 @@ android/lib/src/main/gen/
 android/lib/build/
 
 out/
+
+android/extra adapters/
