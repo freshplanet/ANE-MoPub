@@ -1,0 +1,64 @@
+# General
+temp
+build.config
+
+# Flash Builder
+actionscript/bin
+.actionScriptProperties
+.flexLibProperties
+
+# Eclipse
+.settings
+.project
+
+# Android
+android/AirMoPub/bin
+android/AirMoPub/gen
+android/AirMoPub/lint.xml
+android/bin
+.classpath
+proguard-project.txt
+project.properties
+.gradle
+
+# ios
+ios/build
+
+# Xcode
+xcuserdata
+*/AdNetworkSupport_old
+
+# IntelliJ
+*.iml
+*.idea
+*/out
+android/build
+android/gen
+android/backup_libs
+android/full_libs
+
+# OS X
+Icon
+Thumbs.db
+.DS_Store
+
+# sample
+sample/bin-debug
+sample/bin
+sample/lib
+
+# build stuff
+bin/AirMoPub.ane
+bin/assets
+build/android-profile
+androidLibSizes.txt
+
+local.properties
+
+android/lib/src/main/gen/
+
+\.vscode/
+
+android/lib/build/
+
+out/
