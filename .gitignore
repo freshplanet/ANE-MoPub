@@ -64,3 +64,11 @@ android/lib/build/
 out/
 
 android/extra adapters/
+
+*.patch
+
+ios/AirMoPub/CLLocationManager\+NoLoc\.h
+ios/AirMoPub/CLLocationManager\+NoLoc\.m
+
+# can't distribute included libs!
+ios/AdNetworkSupport/**/SDK/*

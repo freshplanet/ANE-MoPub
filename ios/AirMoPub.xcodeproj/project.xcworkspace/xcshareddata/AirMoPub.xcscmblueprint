@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "78EFEB2F3C12FF38F83D106B99C306C91EF9CBC2" : 0,
+    "C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A" : 0,
+    "FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "38A062C8-73FD-40EC-9C81-348EDBAF98C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "78EFEB2F3C12FF38F83D106B99C306C91EF9CBC2" : "ANE-MoPubios\/AirMoPub\/AdNetworkSupport\/AdColony\/SDK",
+    "C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A" : "ANE-MoPub",
+    "FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94" : "ANE-MoPubios\/mopub-ios-sdk"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AirMoPub",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/AirMoPub.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AdColony\/AdColony-iOS-SDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78EFEB2F3C12FF38F83D106B99C306C91EF9CBC2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/freshplanet\/ANE-MoPub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mopub\/mopub-ios-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94"
+    }
+  ]
+}

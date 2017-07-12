@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>38A062C8-73FD-40EC-9C81-348EDBAF98C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AirMoPub</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>78EFEB2F3C12FF38F83D106B99C306C91EF9CBC2</key>
+		<string>https://github.com/AdColony/AdColony-iOS-SDK.git</string>
+		<key>C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A</key>
+		<string>https://github.com/freshplanet/ANE-MoPub.git</string>
+		<key>FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94</key>
+		<string>https://github.com/mopub/mopub-ios-sdk.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/AirMoPub.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>78EFEB2F3C12FF38F83D106B99C306C91EF9CBC2</key>
+		<string>../../..ios/AirMoPub/AdNetworkSupport/AdColony/SDK</string>
+		<key>C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A</key>
+		<string>../../..</string>
+		<key>FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94</key>
+		<string>../../..ios/mopub-ios-sdk</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/freshplanet/ANE-MoPub.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ANE-MoPub</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mopub-ios-sdk</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78EFEB2F3C12FF38F83D106B99C306C91EF9CBC2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>

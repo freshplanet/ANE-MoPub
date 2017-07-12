@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A" : 0,
+    "FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "174E1E2E-09D0-4ABE-BB69-06A591FDBAF8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A" : "ANE-MoPub\/",
+    "FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94" : "ANE-MoPub\/ios\/mopub-ios-sdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AirMoPub",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/AirMoPub.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/freshplanet\/ANE-MoPub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C44DC6FDD8DF9CA36AB1ADB8A32EE1E70F00379A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mopub\/mopub-ios-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD8D2FDB7826A5A9B76B3714E2DF11DBD961EB94"
+    }
+  ]
+}
