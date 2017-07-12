@@ -1,0 +1,78 @@
+<!--
+ Copyright 2017 FreshPlanet
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+     http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<platform xmlns="http://ns.adobe.com/air/extension/22.0">
+    <sdkVersion>7.0</sdkVersion>
+    <linkerOptions>      
+        <option>-framework AddressBook</option>
+        <option>-framework AddressBookUI</option>
+        <option>-framework AdSupport</option>
+        <option>-framework AudioToolbox</option>
+        <option>-framework AVFoundation</option>
+        <option>-framework CFNetwork</option>
+        <option>-framework CoreBluetooth</option>
+        <option>-framework CoreData</option>
+        <option>-framework CoreGraphics</option>
+        <option>-framework CoreLocation</option>
+        <option>-framework CoreMedia</option>
+        <option>-framework CoreMotion</option>
+        <option>-framework CoreTelephony</option>
+        <option>-framework EventKit</option>
+        <option>-framework EventKitUI</option>
+        <option>-framework Foundation</option>
+        <option>-framework iAd</option>
+        <option>-framework MapKit</option>
+        <option>-framework MediaPlayer</option>
+        <option>-framework MessageUI</option>
+        <option>-framework MobileCoreServices</option>
+        <option>-framework PassKit</option>
+        <option>-framework QuartzCore</option>
+        <option>-framework Security</option>
+        <option>-framework Social</option>
+        <option>-framework StoreKit</option>
+        <option>-framework SystemConfiguration</option>
+        <option>-framework Twitter</option>
+        <option>-framework UIKit</option>
+        <option>-framework WebKit</option>
+
+        <option>-lsqlite3.0</option>
+        <option>-lsqlite3</option>
+        <option>-lz</option>
+        <option>-lz.1.2.5</option>
+        <option>-lxml2</option>
+        <option>-lc++</option>
+
+        <option>-ObjC</option>
+    </linkerOptions>
+    <packagedDependencies>
+        <packagedDependency>AdColony.framework</packagedDependency>
+        <packagedDependency>Chartboost.framework</packagedDependency>
+        <packagedDependency>FBAudienceNetwork.framework</packagedDependency>
+        <packagedDependency>FirebaseAnalytics.framework</packagedDependency>
+        <packagedDependency>FirebaseCore.framework</packagedDependency>
+        <packagedDependency>FirebaseCoreDiagnostics.framework</packagedDependency>
+        <packagedDependency>FirebaseNanoPB.framework</packagedDependency>
+        <packagedDependency>FirebaseInstanceID.framework</packagedDependency>
+        <packagedDependency>GoogleMobileAds.framework</packagedDependency>
+        <packagedDependency>HyprMX.framework</packagedDependency>
+        <packagedDependency>MMAdSDK.framework</packagedDependency>
+        <packagedDependency>Supersonic.framework</packagedDependency>
+        <packagedDependency>Tapjoy.framework</packagedDependency>
+        <packagedDependency>UnityAds.framework</packagedDependency>
+        <packagedDependency>VungleSDK.framework</packagedDependency>
+        
+        <packagedDependency>libmopub-ios-sdk.a</packagedDependency>
+        <packagedDependency>libGoogleToolboxForMac.a</packagedDependency>
+    </packagedDependencies>
+</platform>

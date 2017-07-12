@@ -72,3 +72,4 @@ ios/AirMoPub/CLLocationManager\+NoLoc\.m
 
 # can't distribute included libs!
 ios/AdNetworkSupport/**/SDK/*
+build/update\.sh
